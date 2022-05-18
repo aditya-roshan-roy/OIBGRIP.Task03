@@ -1,2 +1,2 @@
-# OIBGRIP.Task03
-Temperature Converter
+# OIBGRIP-3
+task 03 temperature converter
